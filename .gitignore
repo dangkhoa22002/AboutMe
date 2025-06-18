@@ -1,0 +1,37 @@
+# Thư mục Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Thư mục xuất bản tạm thời (nếu có)
+bin/
+obj/
+out/
+dist/
+build/
+
+# File hệ điều hành
+.DS_Store
+Thumbs.db
+
+# File log, temp, cache
+*.log
+*.tmp
+*.cache
+
+# Node.js modules (nếu dùng npm)
+node_modules/
+
+# Các file riêng tư
+.env
+*.secret
+
+# Các file nén
+*.zip
+*.rar
+*.tar.gz
